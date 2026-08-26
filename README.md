@@ -6,6 +6,7 @@ MySQL exercises covering advanced SQL querying and database administration.
 
 - Advanced SQL Querying
 - Subqueries and CTEs
+- Recursive CTEs
 - Joins
 - Window Functions
 - Temporary Tables
